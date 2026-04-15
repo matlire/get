@@ -2,7 +2,7 @@ import RPi.GPIO as GPIO
 import time
 
 leds        = [24, 22, 23, 27, 17, 25, 12, 16]
-button_up   = 13
+button_up   = 9
 button_down = 10
 delay       = 0.2
 num         = 0
